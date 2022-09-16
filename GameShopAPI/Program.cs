@@ -1,5 +1,6 @@
 ﻿using GameShopAPI.Data;
 using Microsoft.EntityFrameworkCore;
+using GameShopAPI.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 
